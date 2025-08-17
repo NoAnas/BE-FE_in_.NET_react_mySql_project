@@ -1,0 +1,6 @@
+@AnasBE_HostAddress = http://localhost:5240
+
+GET {{AnasBE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
